@@ -1,0 +1,46 @@
+6.0.184
+- Sub Resources Window (like Activity Window)
+- Remove Default Context Menu Item
+
+6.0.183
+- support Safari 6.0 (Lion and Mountain Lion. 64bit only)
+- Suppress Tab Bar Width
+- Go Back and Forward by Delete Key (Forward is Ctl+delete)
+- Google Image Search Context Menu
+- Action Menu (in Customise Toolbar)
+- Quick Search in Context Menu ON/OFF
+- Quick Search has some preset
+- Quick Search in Location Field is disabled
+
+5.1.182
+
+- Clip Web Archive with Selection (default is off. make sure setting)
+- return to 64/32 bit universal binary
+
+5.1.181
+
+- Tab List Sidebar (default is off. make sure setting)
+- Stand Search (search bookmark and history from Spotlight index)
+- setting keyword of Quick Search item to "default" used by address bar direct search instead of google.
+- fix context menu bug
+- 64 bit only. can't load in 32 bit mode.
+
+5.1.180
+
+- improve dated download folder (custom folder name, filter by extension)
+
+5.1.178
+
+- dated download folder
+- improve path popup menu in title bar (copy URL and title, google search with pressing alt key)
+- Fix conflict with Safari Cookies
+
+5.1.177
+
+- Quick Search (context menu, address bar, supports POST, referrer)
+- Search It Later
+- Colorize HTML Source
+- Switch Tab With Wheel on tab bar
+- Switch Tab With ,. (also works control+,.)
+- Bookmark Separator (folder named "-:-")
+- Action Message

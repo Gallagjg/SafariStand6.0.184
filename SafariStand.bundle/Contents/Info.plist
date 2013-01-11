@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BuildMachineOSBuild</key>
+	<string>11E53</string>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>CFBundleExecutable</key>
+	<string>SafariStand</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.hetima.SafariStand</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>SafariStand</string>
+	<key>CFBundlePackageType</key>
+	<string>BNDL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>6.0.184</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>6.0.184</string>
+	<key>DTCompiler</key>
+	<string>com.apple.compilers.llvm.clang.1_0</string>
+	<key>DTPlatformBuild</key>
+	<string>4E3002</string>
+	<key>DTPlatformVersion</key>
+	<string>GM</string>
+	<key>DTSDKBuild</key>
+	<string>11E52</string>
+	<key>DTSDKName</key>
+	<string>macosx10.7</string>
+	<key>DTXcode</key>
+	<string>0433</string>
+	<key>DTXcodeBuild</key>
+	<string>4E3002</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>for Safari 6.0 Copyright © 2011 hetima. All rights reserved.</string>
+	<key>NSPrincipalClass</key>
+	<string>STCSimblLorder</string>
+	<key>SIMBLTargetApplications</key>
+	<array>
+		<dict>
+			<key>BundleIdentifier</key>
+			<string>com.apple.Safari</string>
+			<key>MinBundleVersion</key>
+			<integer>7500</integer>
+		</dict>
+	</array>
+</dict>
+</plist>

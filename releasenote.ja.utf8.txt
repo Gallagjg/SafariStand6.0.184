@@ -1,0 +1,51 @@
+6.0.184
+- Sub Resources ウインドウ追加。「構成ファイル一覧」のようなもの
+- Remove Default Context Menu Item 追加。コンテクストメニューから不要な項目を削除できます
+
+6.0.183
+- Safari 6.0 対応 (Lion and Mountain Lion. 64bit only)
+- Suppress Tab Bar Width 追加
+- Go Back and Forward by Delete Key 追加 (Forward は Ctl+delete)
+- Google Image Search Context Menu 追加
+- Action Menu 追加 (「ツールバーをカスタマイズ...」から)
+- Quick Search in Context Menu オンオフ設定追加
+- Quick Search に検索項目プリセットをいくつか追加
+- Quick Search in Location Field を削除
+
+5.1.182
+
+- Clip Web Archive with Selection (デフォルトではオフなので Setting で有効にしてください)
+- 64/32bit のユニバーサルバイナリに戻した
+
+5.1.181
+
+- タブ一覧サイドバー（デフォルトではオフなので Setting で有効にしてください。リーディングリストの場所を借りるため左側にしか表示できません）
+- 履歴とブックマークを検索する「Stand Search」を追加（Spotlight インデックスを利用しています。検索結果は正確ではないかもしれません）
+- Quick Search 項目の Keyword を「default」とするとアドレスバーで Keyword を省略した検索に使われるようにした（従来は google 固定でした）
+- コンテクストメニューのバグ修正
+- バイナリを64bitのみに変更。32bitモードでは使用できません。
+
+5.1.180
+
+- ダウンロードフォルダの日付分けを強化 (フォルダ名カスタマイズ、拡張子で振り分け)
+- 「イメージをダウンロードフォルダに保存」コマンドも日付分けするようになった
+
+5.1.179
+
+- コンテクストメニューからのコピー文字列にヌル文字が混入するバグを修正
+
+5.1.178
+
+- ダウンロードフォルダの日付分け
+- タイトルバーのパスポップアップを改良 (URL やタイトルをコピー、alt キーを押すと google で検索)
+- Safari Cookies とのコンフリクトを解消
+
+5.1.177
+
+- Quick Search：コンテクストメニュー、アドレスバーで検索、POST・リファラ対応
+- Search It Later：検索語句を保存しておき後で検索
+- ホイールでタブ切り替え
+- 「,」と「.」でタブ切り替え（control+,. も可）
+- HTML ソースの色付け
+- ブックマークセパレーター (「-:-」と名前を付けたフォルダ)
+- Action Message
